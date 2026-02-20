@@ -1,6 +1,10 @@
 .app {
-  text-align: center;
+  height: 100vh;          /* full screen height */
+  display: flex;          
+  justify-content: center; /* horizontal center */
+  align-items: center;     /* vertical center */
 }
+
 
 
 button {
