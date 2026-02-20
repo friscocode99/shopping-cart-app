@@ -17,3 +17,5 @@
 # Sixth Commit --> Changing the app.css using grid
 
 # Seventh Commit --> Flex, Column, Center @css + Change @.jsx | 2 column product --> cart
+
+# Eight Commit --> making it responsive mobile friendly

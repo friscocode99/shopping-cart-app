@@ -7,14 +7,12 @@ function App() {
   return (
     <CartProvider>
       <div className="app">
-  <h1>Shopping Cart</h1>
-
-  <div className="content">
-    <ProductList />
-    <Cart />
-  </div>
-</div>
-
+        <h1>Shopping Cart App</h1>
+        <div className="content">
+          <ProductList />
+          <Cart />
+        </div>
+      </div>
     </CartProvider>
   );
 }
