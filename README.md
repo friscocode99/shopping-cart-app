@@ -15,3 +15,5 @@
 # Fifth Commit --> changing the app.css horizontal stack
 
 # Sixth Commit --> Changing the app.css using grid
+
+# Seventh Commit --> Flex, Column, Center @css + Change @.jsx | 2 column product --> cart
